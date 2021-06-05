@@ -1,3 +1,2 @@
 <h1> Hello, Welcome to SimpliLearn </h1>
-<h1>Configuration Management Project 1 !!! </h1>
-<h2> CI/CD Deployment Using Ansible CM Tool </h2>
+<h2> This is Capstone Project 3 !</h2>
