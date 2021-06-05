@@ -6,4 +6,4 @@ MAINTAINER "valaxytech@gmail.com"
 COPY ./webapp.war /usr/local/tomcat/webapps
 
 # tell docker on which port to expose
-EXPOSE 8000
+EXPOSE 8090
